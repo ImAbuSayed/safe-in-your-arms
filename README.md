@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/safe-in-your-arms/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Safe In Your Arms](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/safe-in-your-arms/) |
+| **Get License** | [Get License For Safe In Your Arms](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/safe-in-your-arms/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8eb49f0ccb43d3672e943e30794063068fe42693e074c97775d5a4f798263277` |
 | **Timestamp** | May 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
