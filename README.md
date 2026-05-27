@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/safe-in-your-arms/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Safe In Your Arms](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/safe-in-your-arms/) |
+| **Get License** | [Request Licensing for Safe In Your Arms](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/safe-in-your-arms/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I never knew the dark could feel so warm
+> Until you pulled me close into the storm
+> I leave the heavy world outside the door
+> To give you everything you're waiting for
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
